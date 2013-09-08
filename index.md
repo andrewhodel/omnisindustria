@@ -1,5 +1,3 @@
-# Omnis Industria
-
 ## Overview
 
 Ad *ultimum productum* ex materia prima.

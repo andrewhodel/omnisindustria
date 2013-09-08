@@ -1,8 +1,6 @@
-## Overview
+*Omnis Industria* is a research group working to establish an open source manufacturing toolchain.
 
-Ad *ultimum productum* ex materia prima.
-
-Omnis Industria is a research group working to establish an open source manufacturing toolchain.
+Ad ultimum productum ex materia prima.
 
 ## Our Projects
 

@@ -1,6 +1,8 @@
-*Omnis Industria* is a research group working to establish an open source manufacturing toolchain.
+**Omnis Industria** is a research group working to establish an open source manufacturing toolchain.
 
-Ad ultimum productum ex materia prima.
+[http://omnisindustria.org](http://omnisindustria.org) is a community documentation project designed to promote, share and keep track of open source projects.
+
+Ad *ultimum productum* ex materia prima.
 
 ## 3d Models and Community Projects
 
@@ -12,7 +14,7 @@ We host design files for 3d models and other community projects.  Our git based 
 
 ## Major Projects
 
-Major projects are voted on to recieve funding from [donations](donate.html).
+Major projects recieve funding from [donations](donate.html).
 
 [Forma Hand](projects/forma-hand/index.html) - hand powered desktop injection molder
 
@@ -32,7 +34,7 @@ The site is powered by [git-wiki](https://github.com/andrewhodel/git-wiki) so an
 
 Documentation is what we are creating, and git is an incredible open source tool for working together.
 
-With git-wiki we are able to document our work collaboratively, record a detailed commit history, and display it online for anyone to see.  **Git makes us a simple, revisioned central repository for 3d models and project files!**
+With [git-wiki](https://github.com/andrewhodel/git-wiki) we are able to document our work collaboratively, record a detailed commit history, and display it online for anyone to see.  **Git makes us a simple, revisioned central repository for 3d models and project files!**
 
 Anyone can fork the project and re-host the data, with one click.  All the benefits of git and Github apply.
 

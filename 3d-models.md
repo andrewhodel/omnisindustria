@@ -1,3 +1,3 @@
 ## 3d Models
 
-WIP
+Please commit and share any open source models which are appropriately licensed.

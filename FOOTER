@@ -1,11 +1,18 @@
 
-    </div> <!-- /container -->
 
-    <!-- Le javascript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
+
+      </div>
+
+      <div id="push"></div>
+    </div>
+
+    <div id="footer">
+      <div class="container">
+        <p class="muted credit"><a href="https://github.com/andrewhodel/git-wiki">https://github.com/andrewhodel/git-wiki</a>.</p>
+      </div>
+    </div>
+
     <script src="bootstrap/js/bootstrap.min.js"></script>
 
   </body>
 </html>
-

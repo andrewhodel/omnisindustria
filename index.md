@@ -6,18 +6,20 @@ Omnis Industria is a research group working to establish an open source manufact
 
 ## Our Projects
 
-[[forma-hand|Forma Hand]] - hand powered desktop injection molder
+[[projects/forma-hand/index|Forma Hand]] - hand powered desktop injection molder
 
-[[forma-desktop|Forma Desktop]] - fully automatic desktop injection molder
+[[projects/forma-desktop/index|Forma Desktop]] - fully automatic desktop injection molder
 
-[[incisus|Incisus]] - PCB milling CNC
+[[projects/incisus/index|Incisus]] - PCB milling CNC
 
-[[caesa|Caesa]] - 3 axis CNC platform, 1Mx1Mx10CM (spindle, laser, plasma cutter)
+[[projects/caesa/index|Caesa]] - 3 axis CNC platform, 1Mx1Mx10CM (spindle, laser, plasma cutter)
 
-[[per|Per]] - 1.75mm filament extruder
+[[projects/per/index|Per]] - 1.75mm filament extruder
 
 ## Contributing
 
-https://plus.google.com/communities/102975489424177341397
+This wiki is powered by <a href="https://github.com/andrewhodel/git-wiki">git-wiki</a> which means that anyone on <a href="http://github.com">Github</a> can edit it with a pull request.
 
-[[sandbox]]
+The repository is located at - https://github.com/andrewhodel/omnisindustria
+
+We also have a G+ community at - https://plus.google.com/communities/102975489424177341397

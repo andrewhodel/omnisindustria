@@ -16,9 +16,13 @@ Ad ultimum productum ex materia prima.
 
 ## Contributing
 
-This site is powered by [git-wiki](https://github.com/andrewhodel/git-wiki) so anyone on [Github](http://github.com) can edit it with a pull request.
+The site is powered by [git-wiki](https://github.com/andrewhodel/git-wiki) so anyone on [Github](http://github.com) can contribute to the [repo](https://github.com/andrewhodel/omnisindustria).
 
-[https://github.com/andrewhodel/omnisindustria](https://github.com/andrewhodel/omnisindustria)
+Documenting everything is important, and git is an incredible open source tool for collaborative work.
+
+By using git-wiki we are able to document our work collaboratively with a detailed history of every commit, while displaying it to the public for anyone to easily read and share online.
+
+Anyone can fork the project and re-host the data, with one click.  All the benefits of git and Github apply.
 
 We also have a [G+ community](https://plus.google.com/communities/102975489424177341397)
 

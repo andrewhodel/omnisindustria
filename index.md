@@ -2,7 +2,17 @@
 
 Ad ultimum productum ex materia prima.
 
-## Projects
+## 3d Models and Community Projects
+
+We host design files for 3d models and other community projects.  Our git based backend allows for easy sharing and iteration with simple authorship tracking.
+
+[3d Models](3d-models.html) - Community 3d Models
+
+[Community Projects](community-projects.html) - Community Projects
+
+## Major Projects
+
+Major projects are voted on to recieve funding from [donations](donate.html).
 
 [Forma Hand](projects/forma-hand/index.html) - hand powered desktop injection molder
 
@@ -16,11 +26,13 @@ Ad ultimum productum ex materia prima.
 
 ## Contributing
 
+The documentation on [http://omnisindustria.org](http://omnisindustria.org) is a collaborative project, everyone is encouraged to contribute.
+
 The site is powered by [git-wiki](https://github.com/andrewhodel/git-wiki) so anyone on [Github](http://github.com) can contribute to the [repo](https://github.com/andrewhodel/omnisindustria).
 
-Documenting everything is important, and git is an incredible open source tool for collaborative work.
+Documentation is what we are creating, and git is an incredible open source tool for working together.
 
-By using git-wiki we are able to document our work collaboratively with a detailed history of every commit, while displaying it to the public for anyone to easily read and share online.
+With git-wiki we are able to document our work collaboratively, record a detailed commit history, and display it online for anyone to see.  **Git makes us a simple, revisioned central repository for 3d models and project files!**
 
 Anyone can fork the project and re-host the data, with one click.  All the benefits of git and Github apply.
 

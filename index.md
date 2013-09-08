@@ -18,7 +18,7 @@ Omnis Industria is a research group working to establish an open source manufact
 
 ## Contributing
 
-This wiki is powered by <a href="https://github.com/andrewhodel/git-wiki">git-wiki</a> which means that anyone on <a href="http://github.com">Github</a> can edit it with a pull request.
+This wiki is powered by https://github.com/andrewhodel/git-wiki so anyone on http://github.com can edit it with a pull request.
 
 The repository is located at - https://github.com/andrewhodel/omnisindustria
 

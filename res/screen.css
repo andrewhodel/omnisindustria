@@ -55,6 +55,7 @@
 .commitlink {
 	float: right;
 	border-right: 2px solid red;
+	padding-right: 4px;
 }
 
 .commitlog {

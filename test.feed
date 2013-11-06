@@ -1,10 +1,23 @@
 [
+
     {
         "type": "rss",
         "feed": "http://blog.reprap.org/feeds/posts/default"
     },
+
+    {
+        "type": "rss",
+        "feed": "http://crapproject.blogspot.com/feeds/posts/default"
+    },
+
+    {
+        "type": "plus",
+        "feed": "104012815742569035024"
+    },
+
     {
         "type": "plus",
         "feed": "116690520738292888782"
     }
+
 ]

@@ -1,2 +1,10 @@
-http://blog.reprap.org/feeds/posts/default
-https://www.googleapis.com/plus/v1/people/116690520738292888782/activities/public
+[
+    {
+        "type": "rss",
+        "feed": "http://blog.reprap.org/feeds/posts/default"
+    },
+    {
+        "type": "plus",
+        "feed": "116690520738292888782"
+    }
+]
